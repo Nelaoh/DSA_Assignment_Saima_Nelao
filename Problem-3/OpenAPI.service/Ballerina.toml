@@ -1,8 +1,0 @@
-[package]
-org = "nelao"
-name = "OpenAPI.service"
-version = "0.1.0"
-distribution = "2201.2.0"
-
-[build-options]
-observabilityIncluded = true
